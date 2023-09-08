@@ -1,6 +1,6 @@
 # information-security-college
 One of my college classes on information security. Most of the labs come from SEED Labs.
-Since information security is more about events, situations, and actions, projects are best recorded as reports rather than code.
+Since information security is more about events, situations, and actions, projects are best recorded as reports with code snippets instead of standalone code.
 
 ## BGP exploration and attack
 My final project was to complete the SEED Labs' BGP exploration and attack lab.
